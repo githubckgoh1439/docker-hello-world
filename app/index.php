@@ -18,7 +18,7 @@
 <body>
 	<img id="logo" src="myimg.jpg" />
 	<h1>
-	<?php echo "Hello ckgoh, welcome to docker site !!!"; ?>
+	<?php echo "Hello ckgoh1439, welcome to docker site and have enjoy it !!!"; ?>
 	</h1>
 	<?php if($_ENV["HOSTNAME"]) {?><h3>My hostname is <?php echo $_ENV["HOSTNAME"]; ?></h3><?php } ?>
 	<?php
